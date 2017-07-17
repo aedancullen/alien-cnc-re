@@ -1,33 +1,33 @@
 motor-mount: 27.4 px/mm
 
-~20mm long
-~10mm wide
+~80mm long
+~40mm wide
 
-center of shaft hole is ~5mm from edge
+center of shaft hole is ~20mm from edge
 
-farthest-in screw center position is ~3mm from shaft hole center
+farthest-in screw center position is ~10mm from shaft hole center
 
-farthest-out screw center position is ~5mm from shaft hole center
+farthest-out screw center position is ~20mm from shaft hole center
 
-leftmost connector screw center is ~1mm from left edge
-other connector screw centers are ~2mm apart
+leftmost connector screw center is ~5mm from left edge
+other connector screw centers are ~10mm apart
 
 
 truck-clamp: 24.8 px/mm
 
-~20mm long
-~10mm wide
+~80mm long
+~40mm wide
 
-screw slots ~5mm center-to-center
+screw slots ~20mm center-to-center
 
-~2mm from edge
+~10mm from edge
 
-clamp hole ~5mm from left edge
+clamp hole ~20mm from left edge
 
-clamp hole is ~8mm diameter
-
-
+clamp hole is ~30mm diameter
 
 
 
-thickness of both parts is 1mm
+
+
+thickness of both parts is 5mm
